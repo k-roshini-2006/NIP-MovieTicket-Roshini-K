@@ -1,4 +1,4 @@
-#Application URL : 
+Application URL : 
 https://zyrgwajp.pegaacademy.net/prweb/app/ticketing-and-booking-2/
 # NIP Movie Ticket Booking
 
